@@ -13,22 +13,22 @@ I performed comprehensive EDA to identify the portrait of a churned customer, ha
 ---
 ### Anomaly Detection using Kmean++
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tpnga95/ml_kmean_anomaly_detection)
-
 <div style="text-align: justify"> I implemented PCA to reduce dimensions for better interpretation, and applied Kmean++ to identify the abnormal cluster in temperature sensors data. Compared Elbow and Silhouette scores to choose the optimal number of clusters. 
 
 <center><img src="images/thump_anomaly_room_temperature.png"/></center>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tpnga95/ml_kmean_anomaly_detection)
 
 ---
 ## Daily Data Science
 
 ### Utilizing Natural Language Processing to filter new vocabularies from a Youtube'substitle 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tpnga95/py_youtube_substitle_vocabularies)
-
 <div style="text-align: justify">I built a program to facilitate my English learning journey by crawling subtitles from Youtube videos, utilizing NLP to do text preprocessing, and developing a graphic user interface to offer solutions to interact with my program. </div>
 
 <center><img src="images/thump_youtube_vocabulary.png"/></center>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tpnga95/py_youtube_substitle_vocabularies)
 
 ---
 ### Identify who is the most productive productivity-Youtubers
