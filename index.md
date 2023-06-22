@@ -39,6 +39,6 @@ I performed comprehensive EDA to identify the portrait of a churned customer, ha
 <div style="text-align: justify">After using Python to get data from YouTube API, I start doing EDA analysis in PowerBI to answer my curiosity: Who is the most productive productivity-YouTubers?</div>
 <br>
 <center><img src="images/thump_youtube_channel.png"/></center>
-<be>
+<br>
 ---
 <center>© Template Source (https://github.com/chriskhanhtran/minimal-portfolio)</center>
