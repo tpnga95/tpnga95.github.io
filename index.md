@@ -24,7 +24,7 @@ I performed comprehensive EDA to identify the portrait of a churned customer, ha
 
 ### Utilizing Natural Language Processing to filter new vocabularies from a Youtube'substitle 
 
-[![View on GitHub](https://github.com/tpnga95/py_youtube_substitle_vocabularies)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tpnga95/py_youtube_substitle_vocabularies)
 
 <div style="text-align: justify">I built a program to facilitate my English learning journey by crawling subtitles from Youtube videos, utilizing NLP to do text preprocessing, and developing a graphic user interface to offer solutions to interact with my program. </div>
 <br>
