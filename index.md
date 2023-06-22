@@ -27,9 +27,8 @@ I performed comprehensive EDA to identify the portrait of a churned customer, ha
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tpnga95/py_youtube_substitle_vocabularies)
 
 <div style="text-align: justify">I built a program to facilitate my English learning journey by crawling subtitles from Youtube videos, utilizing NLP to do text preprocessing, and developing a graphic user interface to offer solutions to interact with my program. </div>
-<br>
+
 <center><img src="images/thump_youtube_vocabulary.png"/></center>
-<br>
 
 ---
 ### Identify who is the most productive productivity-Youtubers
@@ -37,8 +36,8 @@ I performed comprehensive EDA to identify the portrait of a churned customer, ha
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/tpnga95/pbi_analyse_youtube_channels/blob/main/report_youtube_channel_analyse.pdf)
 
 <div style="text-align: justify">After using Python to get data from YouTube API, I start doing EDA analysis in PowerBI to answer my curiosity: Who is the most productive productivity-YouTubers?</div>
-<br>
+
 <center><img src="images/thump_youtube_channel.png"/></center>
-<br>
+
 ---
 <center>© Template Source (https://github.com/chriskhanhtran/minimal-portfolio)</center>
