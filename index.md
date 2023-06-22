@@ -13,7 +13,7 @@ I performed comprehensive EDA to identify the portrait of a churned customer, ha
 ---
 ### Anomaly Detection using Kmean++
 
-<div style="text-align: justify"> I implemented PCA to reduce dimensions for better interpretation, and applied Kmean++ to identify the abnormal cluster in temperature sensors data. Compared Elbow and Silhouette scores to choose the optimal number of clusters. 
+<div style="text-align: justify"> I implemented PCA to reduce dimensions for better interpretation, and applied Kmean++ to identify the abnormal cluster in temperature sensors data. Compared Elbow and Silhouette scores to choose the optimal number of clusters. </div>
 
 <center><img src="images/thump_anomaly_room_temperature.png"/></center>
 
