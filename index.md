@@ -22,7 +22,7 @@ I performed comprehensive EDA to identify the portrait of a churned customer, ha
 ---
 ## Daily Data Science
 
-### Utilizing Natural Language Processing to filter new vocabularies from a Youtube'substitle 
+### Utilizing Natural Language Processing to filter new vocabulary from a Youtube subtitle 
 
 <div style="text-align: justify">I built a program to facilitate my English learning journey by crawling subtitles from Youtube videos, utilizing NLP to do text preprocessing, and developing a graphic user interface to offer solutions to interact with my program. </div>
 
