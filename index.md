@@ -28,7 +28,7 @@ I performed comprehensive EDA to identify the portrait of a churned customer, ha
 
 <div style="text-align: justify">I built a program to facilitate my English learning journey by crawling subtitles from Youtube videos, utilizing NLP to do text preprocessing, and developing a graphic user interface to offer solutions to interact with my program. </div>
 <br>
-<center><img src="thump_youtube_vocabulary.png"/></center>
+<center><img src="images/thump_youtube_vocabulary.png"/></center>
 <br>
 
 ---
@@ -38,6 +38,7 @@ I performed comprehensive EDA to identify the portrait of a churned customer, ha
 
 <div style="text-align: justify">After using Python to get data from YouTube API, I start doing EDA analysis in PowerBI to answer my curiosity: Who is the most productive productivity-YouTubers?</div>
 <br>
-
+<center><img src="images/thump_youtube_channel.png"/></center>
+<be>
 ---
 <center>© Template Source (https://github.com/chriskhanhtran/minimal-portfolio)</center>
