@@ -40,4 +40,4 @@ I performed comprehensive EDA to identify the portrait of a churned customer, ha
 <center><img src="images/thump_youtube_channel.png"/></center>
 
 ---
-<center><a href="[https://github.com/chriskhanhtran](https://github.com/chriskhanhtran/minimal-portfolio)">Template Source</a></center>
+<center><a href="https://github.com/chriskhanhtran/minimal-portfolio">Template Source</a></center>
